@@ -1,1 +1,0 @@
-export const getDomain = () => "http://localhost:8000"
